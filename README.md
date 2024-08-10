@@ -8,7 +8,8 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-For more Website Follow Me ➡️ [GitHub](https://linkedin.com/in/abdul-alim-0)<br><br>
+For more Website Follow Me ➡️ [GitHub](https://linkedin.com/in/abdul-alim-0)<br><br>  
+### For Live Preview website Link ➡️ [BDTravel](https://abdul-alim-0.github.io/Responsive-Travel-Website/)<br>
 
 <h3 align="center">⬇️ BDTravel Website Picture ⬇️</h3>  
 
