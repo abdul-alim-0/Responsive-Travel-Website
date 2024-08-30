@@ -1,19 +1,57 @@
-<h1 align="center">BDTravel Website</h1>
-<h3 align="center">Responsive Travel Website Design using HTML & CSS</h3>
+<h1 align = "center">BD Travel Website</h1>
+<h3 align="center"> Responsive Traveling Website using HTML, CSS</h3>
 
-- Responsive Travel Website Using HTML, CSS & JavaScript.
-- Contains animations on Button, Image and Navbar.
-- It has Four color designs (white, black, Neon and Carrot)
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+For more Website Follow Me ➡️ [GitHub](https://github.com/abdul-alim-0) | [LinkedIn](https://www.linkedin.com/in/abdulalim01/)<br><br>
 
-For more Website Follow Me ➡️ [GitHub](https://github.com/abdul-alim-0)<br><br>  
-### For Live Preview website Link ➡️ [BDTravel](https://abdul-alim-0.github.io/Responsive-Travel-Website/)<br>
+<h1 align="center"> Website Preview </h1>
 
-<h3 align="center">⬇️ BDTravel Website Picture ⬇️</h3>  
+### For Live Overview ➡️ [Influencer products](https://abdul-alim-0.github.io/Responsive-Travel-Website/)<br>
 
-![BDTravel](./website%20img/Screenshot%202024-08-06%20203013.png)
-![BDTravel](./website%20img/Screenshot%202024-08-06%20203033.png)
-![BDTravel](./website%20img/Screenshot%202024-08-06%20203110.png)
-![BDTravel](./website%20img/Screenshot%202024-08-06%20203130.png)
+<img src="./website img/Screenshot 2024-08-06 203013.png" width="900">
+<img src="./website img/Screenshot 2024-08-06 203033.png" width="900">
+<img src="./website img/Screenshot 2024-08-06 203110.png" width="900">
+<img src="./website img/Screenshot 2024-08-06 203130.png" width="900">
+
+## Features 📋
+
+⚡️ Fully Responsive.\
+⚡️ Valid HTML, CSS.\
+⚡️ Smooth scrolling in each section.\
+⚡️ Compatible with all mobile devices and with a beautiful and pleasant user interface.\
+⚡️ Easy to modify.
+
+## Installation & Deployment 📦
+
+- Clone the repository and modify the content of <b>index.html</b>
+- Add or remove images from `assets/img/` directory as per your requirement.
+- Update the info of `Tour Place` folder according to your need
+- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+
+## Sections 📚
+
+✔️ Home\
+✔️ Login, Sign up\
+✔️ Company logo\
+✔️ Tour Place \
+✔️ Popular Collection \
+✔️ Feature\
+✔️ Footer\
+
+## Contributing 💡
+
+#### Step 1
+
+- **Option 1**
+
+  - 🍴 Fork this repo!
+
+- **Option 2**
+  - 👯 Clone this repo to your local machine.
+
+#### Step 2
+
+- **Build your code** 🔨🔨🔨
+
+#### Step 3
+
+- 🔃 Create a new pull request.
