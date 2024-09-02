@@ -5,7 +5,7 @@ For more Website Follow Me ➡️ [GitHub](https://github.com/abdul-alim-0) | [L
 
 <h1 align="center"> Website Preview </h1>
 
-### For Live Overview ➡️ [Influencer products](https://abdul-alim-0.github.io/Responsive-Travel-Website/)<br>
+### For Live Overview ➡️ [BD Travel Website](https://abdul-alim-0.github.io/Responsive-Travel-Website/)<br>
 
 <img src="./website img/Screenshot 2024-08-06 203013.png" width="900">
 <img src="./website img/Screenshot 2024-08-06 203033.png" width="900">
